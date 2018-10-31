@@ -1,0 +1,16 @@
+ML Lab 5 Answers
+Xhanti Singatha
+SNGXHA002
+
+Question 1
+
+Output value for hidden layer neuron 1: 0.763145 
+Output value for hidden layer neuron 2: 0.802184
+
+Question 2
+
+Output value for output neuron: 0.752632
+
+Question 3
+
+Mean Squared Error: 0.07708
